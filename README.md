@@ -20,4 +20,7 @@ I am finally getting the hang of this
 All you have to do is edit this file
 Save (Cntl S)
 Commit using the check mark (Auto staging)
-
+Enter a commit comment
+Press sync at the bottom left of VS Code
+This leaves the code in the "New feature branch"
+To Pull the code into master you need to use github or git desktop

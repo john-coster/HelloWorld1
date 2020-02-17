@@ -17,4 +17,7 @@ blah blah
 new stuff
 yet more stuff
 I am finally getting the hang of this
+All you have to do is edit this file
+Save (Cntl S)
+Commit using the check mark (Auto staging)
 
